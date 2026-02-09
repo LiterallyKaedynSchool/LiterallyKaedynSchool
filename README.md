@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Stats:
 
-[comment]: (![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiterallyKaedynSchool&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff))
+[comment]: <> (![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiterallyKaedynSchool&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff))
 
-[comment]: (![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiterallyKaedynSchool&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=#58a6ff))
+[comment]: <> (![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiterallyKaedynSchool&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=#58a6ff))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LiterallyKaedynSchool&color=brightgreen&style=flat-square)
